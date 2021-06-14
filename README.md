@@ -1,2 +1,2 @@
 # JustaLadder
- This is literally just a ladder for using in DayZ
+ This is literally just a ladder for using in DayZ.
