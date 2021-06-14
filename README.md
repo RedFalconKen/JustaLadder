@@ -5,6 +5,6 @@ Ever need a climbable ladder on your DayZ server? Well I did and was disappointe
 
 Originally sourced from: https://github.com/BohemiaInteractive/DayZ-Samples/tree/master/Test_Ladders
 
-Feel free to change, modify, fold, spindle, and/or mutilate however you see fit.  This is mod is free for all to use and enjoy. Repacking of this mod is allowed.
+Feel free to change, modify, fold, spindle, and/or mutilate however you see fit.  This mod is free for all to use and enjoy. Repacking of this mod is allowed.
 
 For information on this and other mods that I've created, join my Discord https://discord.gg/U6jHPg3Q3u
